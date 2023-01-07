@@ -1,5 +1,6 @@
 import scala.annotation.tailrec
 
+// Given a string s, find the length of the longest substring without repeating characters.
 object Main {
   def main(args: Array[String]): Unit = {
     println("Length of Longest Substring:: ")
